@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TiJ-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://tij-code.github.io
+- 👋 Hi, I’m @TiJ
+- 👀 I’m interested in Developing (with C#, Java and Python), Physics and Maths
+- 🌱 I’m currently learning C++
 
 <!---
 TiJ-code/TiJ-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
