@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TiJ
-- 👀 I’m interested in Developing (with C#, Java and Python), Physics and Maths
+- 👀 I’m interested in GameDev (with C#, Java and Python), Physics and Maths
 
 <!---
 TiJ-code/TiJ-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
