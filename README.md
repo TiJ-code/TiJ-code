@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TiJ</h1>
-<h3 align="center">A passionate software and game developer.</h3>
+<h3 align="center">A software and game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tij-code&label=Profile%20views&color=0e75b6&style=flat" alt="tij-code" /> </p>
 
