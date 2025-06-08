@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tij-code&label=Profile%20views&color=0e75b6&style=flat" alt="tij-code" /> </p>
 
-- 🔭 I’m currently working on [Registermaschine and several games](https://github.com/TiJ-code/Registermaschine)
-
+- 🔭 I’m currently working on a multiplayer survival game featuring seamless space and interplanetary travel with OpenGL and Java.
 - 🌱 I’m currently learning **C and C++**
 
 <h3 align="left">Languages and Tools:</h3>
